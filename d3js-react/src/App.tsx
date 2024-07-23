@@ -1,11 +1,10 @@
 import './App.css'
+import Interpolation from './d3-components/Interplation'
 
 function App() {
 
   return (
-    <h1>
-         React + d3js
-    </h1>
+        <Interpolation/>
   )
 }
 
